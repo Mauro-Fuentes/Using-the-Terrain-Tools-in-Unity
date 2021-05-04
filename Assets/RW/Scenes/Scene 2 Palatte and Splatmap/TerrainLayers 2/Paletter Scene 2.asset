@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c509dbaa7b6f416409e3195321a2187e, type: 3}
+  m_Name: Paletter Scene 2
+  m_EditorClassIdentifier: 
+  PaletteLayers:
+  - {fileID: 8574412962073106934, guid: 73b72a441f175a544b7d39019548d003, type: 2}
+  - {fileID: 8574412962073106934, guid: 149eff4fd46b7ce43bc4d71d421b9aab, type: 2}
+  - {fileID: 8574412962073106934, guid: 503d3f97ee8808c4d917ac8d7f4a30f6, type: 2}
+  - {fileID: 8574412962073106934, guid: 95218c9af54531b489621442531e22c8, type: 2}
